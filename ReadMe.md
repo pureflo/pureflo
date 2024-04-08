@@ -36,7 +36,6 @@ Stay tuned for what's to come, and don't forget to check out my YouTube channel 
 ### 📗 Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-
 <!-- BLOG-POSTS:END -->
 
 ---
