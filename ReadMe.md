@@ -27,7 +27,11 @@
 
 ### ✨ About me
 
-Passionate Software Engineer with over eight years of commercial experience, dedicated to the art of app development and the pursuit of software craftsmanship. My journey has been defined by a relentless commitment to clean code, robust architecture, and best practices in software development. Now, I'm venturing into the realm of digital education and creation, eager to share my knowledge and explore innovative ideas through my [IKcode Igor Wnek](https://www.youtube.com/channel/UCcDvJJBiUbqKjdezkLkjtyQ) YouTube channel. Join me as we unlock the potential of technology together.
+With over 20 years navigating the tech landscape, I currently helm Customer Success and occasionally step into a CIO/CTO role, grounded in the integration of modern technology and the business-tech nexus. My approach is hands-on, aiming to simplify the complex, reflecting a relentless commitment to excellence and innovation.
+
+Outside the professional realm, I'm an ordinary human with an extraordinary drive for success, deeply committed to my values, my family, and continuous improvement. Cycling, vegan whole foods, and high-performance sport are not just interests... they are extensions of my philosophy towards health, resilience and peak performance. As someone who thrives on challenges and embraces responsibility, I see life as a privilege and strive to make an honorable impact in all aspects of my existence.
+
+In the tech community, I seek to share my knowledge, lead by example, and explore innovative solutions.
 <br />
 
 ---
