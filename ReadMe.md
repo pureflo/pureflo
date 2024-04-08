@@ -29,7 +29,6 @@
 
 Passionate Software Engineer with over eight years of commercial experience, dedicated to the art of app development and the pursuit of software craftsmanship. My journey has been defined by a relentless commitment to clean code, robust architecture, and best practices in software development. Now, I'm venturing into the realm of digital education and creation, eager to share my knowledge and explore innovative ideas through my [IKcode Igor Wnek](https://www.youtube.com/channel/UCcDvJJBiUbqKjdezkLkjtyQ) YouTube channel. Join me as we unlock the potential of technology together.
 <br />
-Stay tuned for what's to come, and don't forget to check out my YouTube channel for a deeper dive into the world of coding and software craftsmanship!
 
 ---
 
@@ -43,8 +42,8 @@ Stay tuned for what's to come, and don't forget to check out my YouTube channel 
 <details>
     <summary><b>📈 My GitHub Stats</b></summary>
     <br />
-    <a href="http://www.github.com/pureflo"><img src="https://github-readme-stats.vercel.app/api?username=pureflo&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="IgorWnek's GitHub stats" /></a>
+    <a href="http://www.github.com/pureflo"><img src="https://github-readme-stats.vercel.app/api?username=pureflo&show_icons=true&hide=issues,&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pureflo's GitHub stats" /></a>
     <br />    
-    <a href="http://www.github.com/pureflo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorWnek&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="More of IgorWnek's GitHub stats" /></a>
+    <a href="http://www.github.com/pureflo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pureflo&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="More of Pureflo's GitHub stats" /></a>
     <br />
 </details>
