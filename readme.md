@@ -1,10 +1,20 @@
-# 🚀 Igor Wnek
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shawn Smith ===================================================================================================================================
+
+ ### Socials  <p align="left"> <a href="https://www.github.com/pureflo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/pureflo"><img src="https://github-readme-stats.vercel.app/api?username=pureflo&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="pureflo's GitHub stats" /></a>
+
+
+# 🚀 Shawn Smith (aka pureflo)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
 
 **`Digital Craftsman & Educator`**
 
-* 🌍 I'm based in Poland 🇵🇱
+* 🌍 I'm based in Victoria, Australia 🇦🇺
 * ✉️ You can contact me at [igor.wnek@ikcode.dev](mailto:igor.wnek@ikcode.dev)
 * ❓ Ask me a question about programming at [my Instagram](https://www.instagram.com/ikcode_igorwnek)
 * 🧠 Languages I learn or master: JavaScript, TypeScript, Rust
